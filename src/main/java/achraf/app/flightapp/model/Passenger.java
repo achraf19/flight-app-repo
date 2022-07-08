@@ -19,5 +19,6 @@ public class Passenger {
     private Long passengerId;
     private String firstName;
     private String lastName;
+    private String phoneNumber;
     private String passportNumber;
 }
